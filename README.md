@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="left">I code with JS</h2>
+<h2 align="left">I code with </h2>
 
 ###
 
